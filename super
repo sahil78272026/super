@@ -66,4 +66,5 @@ Child3_class_func
 parent_class_func
 Child1_class_func
 Child2_class_func
+child1_class_var
 '''
